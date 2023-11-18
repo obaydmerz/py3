@@ -1,0 +1,53 @@
+{
+  "name": "py3",
+  "version": "1.0.0",
+  "description": "🚀 A versatile Node.js library for seamless interaction with Python. Execute Python commands effortlessly and manage Python sessions with ease! ( No Dependencies ) ",
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "lib/errors.js",
+    "lib/utils.js",
+    "lib/result.js",
+    "index.js"
+  ],
+  "keywords": [
+    "python",
+    "python3",
+    "node.js",
+    "nodejs",
+    "node",
+    "py",
+    "py3",
+    "blender",
+    "shell",
+    "automation",
+    "ipc",
+    "process",
+    "cross-platform",
+    "no-dependency",
+    "zero-dependency",
+    "no-native-files",
+    "pip",
+    "async",
+    "error-handling",
+    "secure",
+    "fast",
+    "documentation",
+    "cross-platform",
+    "linux",
+    "docker",
+    "windows",
+    "macOS",
+    "script",
+    "macOS",
+    "spawn",
+    "child-process",
+    "api"
+  ],
+  "author": {
+    "name": "Abderrahmene Merzoug",
+    "email": "obaydmerz@gmail.com",
+    "url": "https://github.com/obaydmerz"
+  },
+  "license": "GPL-3.0"
+}
