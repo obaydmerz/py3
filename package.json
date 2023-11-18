@@ -1,15 +1,12 @@
 {
   "name": "py3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🚀 A versatile Node.js library for seamless interaction with Python. Execute Python commands effortlessly and manage Python sessions with ease! ( No Dependencies ) ",
   "main": "index.js",
   "type": "module",
-  "files": [
-    "lib/errors.js",
-    "lib/utils.js",
-    "lib/result.js",
-    "index.js"
-  ],
+  "types": "index.d.ts",
+  "homepage": "https://github.com/obaydmerz/py3",
+  "repository": "https://github.com/obaydmerz/py3",
   "keywords": [
     "python",
     "python3",
